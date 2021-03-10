@@ -21,3 +21,6 @@ pom.xml添加以下内容：
         </dependency>
     </dependencies>
 ```
+### 热启动
+![image](https://user-images.githubusercontent.com/50312187/110588212-ac9a8600-81af-11eb-976b-9caac67e6259.png)
+
